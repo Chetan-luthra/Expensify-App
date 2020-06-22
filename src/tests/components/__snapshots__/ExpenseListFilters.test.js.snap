@@ -3,6 +3,7 @@
 exports[`Should Render ExpenseListFilters correctly 1`] = `
 <div>
   <input
+    autoFocus={true}
     onChange={[Function]}
     type="text"
     value=""
@@ -111,6 +112,7 @@ exports[`Should Render ExpenseListFilters correctly 1`] = `
 exports[`Should Render ExpenseListFilters with alt data  correctly  1`] = `
 <div>
   <input
+    autoFocus={true}
     onChange={[Function]}
     type="text"
     value="bill"
